@@ -1,0 +1,33 @@
+header, footer {
+background-color: #ffffff;
+padding-left: 16px;
+}
+header h3 {
+  padding-top: 16px;
+  padding-left: 16px;
+}
+h1 {
+  padding-left: 16px;
+}
+nav {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    background-color: #ffffff;
+}
+
+nav .btn {
+    background-color: #B0C4DE;
+    color: #000000;
+}
+
+nav .btn:hover {
+    font-weight: bold;
+}
+h1 {
+  font-style: oblique;
+}
+button {
+  background-color: #B0C4DE;
+  color: #000000;
+}
